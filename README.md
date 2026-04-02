@@ -1,6 +1,6 @@
 # 🌍 LinguaDetect — AI Language Detection
 
-A full-stack web application that identifies the language of any text using a deep learning model (CharCNN) trained on 17 languages.
+A full-stack web application that identifies the language of any text using a deep learning model Naive Bayes+Logistic Regression trained on 17 languages.
 
 ---
 
